@@ -7,9 +7,9 @@ if the computer has a charge
   open windows mail
 else the computer has no charge
   charge the computer
-There are new mails
-if there are
+Open Windows Mail
+if there are new mails
   read all new mails
-else there are not
+else there are not new mails
   close the mail
 Finish

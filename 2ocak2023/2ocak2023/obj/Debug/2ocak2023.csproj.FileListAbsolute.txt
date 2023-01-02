@@ -1,0 +1,8 @@
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\bin\Debug\2ocak2023.exe.config
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\bin\Debug\2ocak2023.exe
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\bin\Debug\2ocak2023.pdb
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\obj\Debug\2ocak2023.csproj.AssemblyReference.cache
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\obj\Debug\2ocak2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\obj\Debug\2ocak2023.csproj.CoreCompileInputs.cache
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\obj\Debug\2ocak2023.exe
+C:\Users\D-Egitim-PC02\source\repos\2ocak2023\2ocak2023\obj\Debug\2ocak2023.pdb

@@ -1,0 +1,15 @@
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.csproj.AssemblyReference.cache
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.AssemblyInfoInputs.cache
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.AssemblyInfo.cs
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.csproj.CoreCompileInputs.cache
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\bin\Debug\net6.0\19aralik.exe
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\bin\Debug\net6.0\19aralik.deps.json
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\bin\Debug\net6.0\19aralik.runtimeconfig.json
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\bin\Debug\net6.0\19aralik.dll
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\bin\Debug\net6.0\19aralik.pdb
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.dll
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\refint\19aralik.dll
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.pdb
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\19aralik.genruntimeconfig.cache
+C:\Users\D-Egitim-PC01\source\repos\19aralik\19aralik\obj\Debug\net6.0\ref\19aralik.dll

@@ -1,0 +1,8 @@
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\bin\Debug\28aralik.exe.config
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\bin\Debug\28aralik.exe
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\bin\Debug\28aralik.pdb
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\obj\Debug\28aralik.csproj.AssemblyReference.cache
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\obj\Debug\28aralik.csproj.SuggestedBindingRedirects.cache
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\obj\Debug\28aralik.csproj.CoreCompileInputs.cache
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\obj\Debug\28aralik.exe
+C:\Users\D-Egitim-PC02\source\repos\28aralik\28aralik\obj\Debug\28aralik.pdb

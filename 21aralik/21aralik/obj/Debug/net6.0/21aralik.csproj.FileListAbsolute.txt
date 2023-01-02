@@ -1,0 +1,15 @@
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\bin\Debug\net6.0\21aralik.exe
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\bin\Debug\net6.0\21aralik.deps.json
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\bin\Debug\net6.0\21aralik.runtimeconfig.json
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\bin\Debug\net6.0\21aralik.dll
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\bin\Debug\net6.0\21aralik.pdb
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.csproj.AssemblyReference.cache
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.AssemblyInfoInputs.cache
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.AssemblyInfo.cs
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.csproj.CoreCompileInputs.cache
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.dll
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\refint\21aralik.dll
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.pdb
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\21aralik.genruntimeconfig.cache
+C:\Users\D-Egitim-PC02\source\repos\21aralik\21aralik\obj\Debug\net6.0\ref\21aralik.dll
